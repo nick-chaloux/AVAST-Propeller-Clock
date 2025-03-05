@@ -15,7 +15,7 @@ Location: David Center Social hub
 
 \* Schedule subject to some change. In-class time is intended for questions as you build your propeller clock
 
-## How to Install this Repo
+## How to Download this Repo
 1. Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your local machine.
 2. Navigate to the directory (folder) you want this project to download to.
 3. Run:
