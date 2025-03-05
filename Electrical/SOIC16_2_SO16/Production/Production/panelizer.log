@@ -1,0 +1,7 @@
+2025-02-20 13:55:42,261 - panelizer_logger - ERROR - 
+START: 2025-02-20T13:55:42.260537
+
+Board: C:\Users\bkelly\OneDrive - Woods Hole Oceanographic Institution\Documents\Projects\AVAST\AVAST_Projects\PropellerClock\SOIC16_2_SO16\Production\Production\SOIC16_2_SO16_panelized_panelized.kicad_pcb
+Board dimensions: 12.01 x 11.63 mm.
+Panel size is too small for board. Quitting.
+

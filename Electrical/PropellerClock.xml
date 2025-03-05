@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\bkelly\OneDrive - Woods Hole Oceanographic Institution\Documents\Projects\AVAST\AVAST_Projects\PropellerClock\PropellerClock.kicad_sch</source>
+    <date>1/30/2025 4:13:52 PM</date>
+    <tool>Eeschema 7.0.9</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Lunch n Learn Propeller clock</title>
+        <company>Woods Hole Oceanographic Institution</company>
+        <rev>A</rev>
+        <date>1/21/2025</date>
+        <source>PropellerClock.kicad_sch</source>
+        <comment number="1" value="AVAST"/>
+        <comment number="2" value="266 Woods Hole Road"/>
+        <comment number="3" value="Woods Hole, MA 02543"/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="B1">
+      <value>BATTERYCR1220_SMT</value>
+      <footprint>Adafruit:BAT_CR-1220_FCN</footprint>
+      <fields>
+        <field name="Digikey">P279-ND</field>
+      </fields>
+      <libsource lib="Arduino3231" part="BATTERYCR1220_SMT" description=""/>
+      <property name="Digikey" value="P279-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31bec126-dd76-42c5-9f1d-e2803f3c4a4e</tstamps>
+    </comp>
+    <comp ref="B2">
+      <value>BATTERY</value>
+      <footprint>Adafruit DS3231 RTC Breakout:JSTPH2</footprint>
+      <fields>
+        <field name="Digikey">1528-1841-ND</field>
+      </fields>
+      <libsource lib="Arduino3231" part="BATTERY" description=""/>
+      <property name="Digikey" value="1528-1841-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de95d9ca-bf3b-46d9-9961-8031b31b2cdc</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED_Small</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Digikey">1080-1419-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Digikey" value="1080-1419-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf4e94fd-0ea6-4575-86f5-5764e6931d20</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED_Small</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Digikey">1080-1419-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Digikey" value="1080-1419-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65499520-66db-4e5e-bb3d-e12f0c59b98d</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED_Small</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Digikey">1080-1419-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Digikey" value="1080-1419-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d35cf58-5e80-4dc5-9a9b-27c621916414</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED_Small</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Digikey">1080-1419-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Digikey" value="1080-1419-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3fdee71-b7e2-4e32-9f59-e6a56dc160f9</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>GREEN</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Digikey">1080-1419-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Digikey" value="1080-1419-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a31dceb5-e278-4f50-a63f-0ea5dde269f7</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>BLUE</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Digikey">1497-1399-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Digikey" value="1497-1399-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0070d688-9348-41e0-b3c5-ab9d20e7dc62</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED_Small</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Digikey">L62301CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Digikey" value="L62301CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be14e439-00b4-4e6a-93e9-a6888ab8ff4f</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED_Small</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Digikey">L62301CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Digikey" value="L62301CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64b8d147-2592-4646-aedd-088d8129a567</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED_Small</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Digikey">L62301CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Digikey" value="L62301CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>670abc43-3864-47ca-bc1f-aa8f63fab8e6</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED_Small</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Digikey">L62301CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Digikey" value="L62301CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db834074-dd7f-47c1-aa2d-f707474fe40d</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>LED_Small</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Digikey">L62301CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Digikey" value="L62301CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4556683a-8ccf-4b88-b45e-93cc42b78b5f</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>LED_Small</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Digikey">L62301CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Digikey" value="L62301CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5dc14d66-e431-48fb-8374-62e653d7a36f</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>LED_Small</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Digikey">L62301CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Digikey" value="L62301CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c578f22b-1b30-4ded-846b-ee9405c33442</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>LED_Small</value>
+      <footprint>LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="Digikey">L62301CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Digikey" value="L62301CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode, small symbol"/>
+      <property name="ki_keywords" value="LED diode light-emitting-diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73468211-8904-427c-935c-3a346e9839af</tstamps>
+    </comp>
+    <comp ref="MS1">
+      <value>FEATHERWING</value>
+      <footprint>AndriaSalas_LobsterHeartBeat:MODULE_FEATHER_M0_BASIC_PROTO</footprint>
+      <fields>
+        <field name="Digikey">1528-2538-ND</field>
+      </fields>
+      <libsource lib="Adafruit" part="FEATHERWING" description=""/>
+      <property name="Digikey" value="1528-2538-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3aa8d76c-5b70-476e-b838-fbd062e3ff7d</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>330R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Digikey">CF14JT330R</field>
+      </fields>
+      <libsource lib="PCM_SL_Resistors" part="10k" description="10kΩ, 1/4W Resistor"/>
+      <property name="Digikey" value="CF14JT330R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="10kΩ, 1/4W Resistor"/>
+      <property name="ki_keywords" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e035111d-6593-4bbd-a31b-603c77369e12</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>330R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Digikey">CF14JT330R</field>
+      </fields>
+      <libsource lib="PCM_SL_Resistors" part="10k" description="10kΩ, 1/4W Resistor"/>
+      <property name="Digikey" value="CF14JT330R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="10kΩ, 1/4W Resistor"/>
+      <property name="ki_keywords" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0f184d6-973f-45de-bb0b-1bc99556b9be</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>330R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Digikey">CF14JT330R</field>
+      </fields>
+      <libsource lib="PCM_SL_Resistors" part="10k" description="10kΩ, 1/4W Resistor"/>
+      <property name="Digikey" value="CF14JT330R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="10kΩ, 1/4W Resistor"/>
+      <property name="ki_keywords" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40eb16f4-7065-4cdd-8a41-09f50840a8e4</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>330R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Digikey">CF14JT330R</field>
+      </fields>
+      <libsource lib="PCM_SL_Resistors" part="10k" description="10kΩ, 1/4W Resistor"/>
+      <property name="Digikey" value="CF14JT330R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="10kΩ, 1/4W Resistor"/>
+      <property name="ki_keywords" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>442cfeef-939d-42b7-88ed-50e68d03daf8</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>330R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Digikey">CF14JT330R</field>
+      </fields>
+      <libsource lib="PCM_SL_Resistors" part="10k" description="10kΩ, 1/4W Resistor"/>
+      <property name="Digikey" value="CF14JT330R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="10kΩ, 1/4W Resistor"/>
+      <property name="ki_keywords" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5ec315b-6718-4875-b499-254f8801e53f</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>330R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Digikey">CF14JT330R</field>
+      </fields>
+      <libsource lib="PCM_SL_Resistors" part="10k" description="10kΩ, 1/4W Resistor"/>
+      <property name="Digikey" value="CF14JT330R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="10kΩ, 1/4W Resistor"/>
+      <property name="ki_keywords" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a87d117-4d61-46e5-9e64-30950cb8dae2</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>330R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Digikey">CF14JT330R</field>
+      </fields>
+      <libsource lib="PCM_SL_Resistors" part="10k" description="10kΩ, 1/4W Resistor"/>
+      <property name="Digikey" value="CF14JT330R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="10kΩ, 1/4W Resistor"/>
+      <property name="ki_keywords" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6ddb33e-e82b-49bc-b740-87c1b19ae828</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>330R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Digikey">CF14JT330R</field>
+      </fields>
+      <libsource lib="PCM_SL_Resistors" part="10k" description="10kΩ, 1/4W Resistor"/>
+      <property name="Digikey" value="CF14JT330R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="10kΩ, 1/4W Resistor"/>
+      <property name="ki_keywords" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc37abd9-880c-4f1a-8193-7052c2b83ecf</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>330R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Digikey">CF14JT330R</field>
+      </fields>
+      <libsource lib="PCM_SL_Resistors" part="10k" description="10kΩ, 1/4W Resistor"/>
+      <property name="Digikey" value="CF14JT330R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="10kΩ, 1/4W Resistor"/>
+      <property name="ki_keywords" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb221956-870e-41e8-96da-83a0b932290c</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>330R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Digikey">CF14JT330R</field>
+      </fields>
+      <libsource lib="PCM_SL_Resistors" part="10k" description="10kΩ, 1/4W Resistor"/>
+      <property name="Digikey" value="CF14JT330R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="10kΩ, 1/4W Resistor"/>
+      <property name="ki_keywords" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57446a07-e48a-4765-8666-082d29d60803</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>330R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Digikey">CF14JT330R</field>
+      </fields>
+      <libsource lib="PCM_SL_Resistors" part="10k" description="10kΩ, 1/4W Resistor"/>
+      <property name="Digikey" value="CF14JT330R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="10kΩ, 1/4W Resistor"/>
+      <property name="ki_keywords" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d325eb0-e4e6-44a8-bad1-9180391e9f46</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>330R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Digikey">CF14JT330R</field>
+      </fields>
+      <libsource lib="PCM_SL_Resistors" part="10k" description="10kΩ, 1/4W Resistor"/>
+      <property name="Digikey" value="CF14JT330R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="10kΩ, 1/4W Resistor"/>
+      <property name="ki_keywords" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8b3fb2a-1b3c-43cd-a2db-4df081104031</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>2K2</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Digikey">CF14JT2K20</field>
+      </fields>
+      <libsource lib="PCM_SL_Resistors" part="10k" description="10kΩ, 1/4W Resistor"/>
+      <property name="Digikey" value="CF14JT2K20"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="10kΩ, 1/4W Resistor"/>
+      <property name="ki_keywords" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6bf2bfa-003d-4268-8217-c203283e9f99</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Digikey">CF14JT10K0</field>
+      </fields>
+      <libsource lib="PCM_SL_Resistors" part="10k" description="10kΩ, 1/4W Resistor"/>
+      <property name="Digikey" value="CF14JT10K0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="10kΩ, 1/4W Resistor"/>
+      <property name="ki_keywords" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c29d425-7602-4e02-91d3-302a9b108d6e</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Digikey">CF14JT10K0</field>
+      </fields>
+      <libsource lib="PCM_SL_Resistors" part="10k" description="10kΩ, 1/4W Resistor"/>
+      <property name="Digikey" value="CF14JT10K0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="10kΩ, 1/4W Resistor"/>
+      <property name="ki_keywords" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05ad19ce-dc9f-4d40-ac70-066dd1fa07d2</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>330R</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Digikey">CF14JT330R</field>
+      </fields>
+      <libsource lib="PCM_SL_Resistors" part="10k" description="10kΩ, 1/4W Resistor"/>
+      <property name="Digikey" value="CF14JT330R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="10kΩ, 1/4W Resistor"/>
+      <property name="ki_keywords" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2103114-2e9f-4eb2-a289-562a0a3b1123</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</footprint>
+      <fields>
+        <field name="Digikey">CF14JT10K0</field>
+      </fields>
+      <libsource lib="PCM_SL_Resistors" part="10k" description="10kΩ, 1/4W Resistor"/>
+      <property name="Digikey" value="CF14JT10K0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="10kΩ, 1/4W Resistor"/>
+      <property name="ki_keywords" value="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>005246ee-2d39-4e03-8167-6178adfac65d</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>DRV5033AJxLPG</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/drv5033.pdf</datasheet>
+      <fields>
+        <field name="Digikey">296-DRV5033AJQLPGMCT-ND</field>
+      </fields>
+      <libsource lib="Sensor_Magnetic" part="DRV5033AJxLPG" description="±6.9 / ±3.5 mT, 20-kHz, 2-38V, TO-92"/>
+      <property name="Digikey" value="296-DRV5033AJQLPGMCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="±6.9 / ±3.5 mT, 20-kHz, 2-38V, TO-92"/>
+      <property name="ki_keywords" value="Digital Omnipolar Switch Hall Effect Sensor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e95f3ec-a7a0-4b78-a9ee-1285b2e2f476</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>DS3231</value>
+      <footprint>Package_SO:SO-16_5.3x10.2mm_P1.27mm</footprint>
+      <datasheet>http://datasheets.maximintegrated.com/en/ds/DS3231.pdf</datasheet>
+      <fields>
+        <field name="Digikey">DS3231M+TRLCT-ND</field>
+      </fields>
+      <libsource lib="Timer_RTC" part="DS3231M" description="Extremely Accurate I2C-Integrated RTC/TCXO/Crystal SOIC-16"/>
+      <property name="Digikey" value="DS3231M+TRLCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PropellerClock.kicad_sch"/>
+      <property name="ki_description" value="Extremely Accurate I2C-Integrated RTC/TCXO/Crystal SOIC-16"/>
+      <property name="ki_keywords" value="RTC TCXO Realtime Time Clock Crystal Oscillator I2C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60746347-4d95-421c-8e34-5673b235d9fa</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Adafruit" part="FEATHERWING">
+      <fields>
+        <field name="Reference">MS</field>
+        <field name="Value">FEATHERWING</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{RST}" type="input"/>
+        <pin num="2" name="3V" type="power_in"/>
+        <pin num="3" name="AREF" type="passive"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="A0" type="bidirectional"/>
+        <pin num="6" name="A1" type="bidirectional"/>
+        <pin num="7" name="A2" type="bidirectional"/>
+        <pin num="8" name="A3" type="bidirectional"/>
+        <pin num="9" name="A4" type="bidirectional"/>
+        <pin num="10" name="A5" type="bidirectional"/>
+        <pin num="11" name="SCK" type="bidirectional"/>
+        <pin num="12" name="MO" type="bidirectional"/>
+        <pin num="13" name="MI" type="bidirectional"/>
+        <pin num="14" name="RX" type="bidirectional"/>
+        <pin num="15" name="TX" type="bidirectional"/>
+        <pin num="16" name="D4" type="passive"/>
+        <pin num="17" name="SDA" type="bidirectional"/>
+        <pin num="18" name="SCL" type="bidirectional"/>
+        <pin num="19" name="5" type="bidirectional"/>
+        <pin num="20" name="6" type="bidirectional"/>
+        <pin num="21" name="9" type="bidirectional"/>
+        <pin num="22" name="10" type="bidirectional"/>
+        <pin num="23" name="11" type="bidirectional"/>
+        <pin num="24" name="12" type="bidirectional"/>
+        <pin num="25" name="13" type="bidirectional"/>
+        <pin num="26" name="USB" type="power_in"/>
+        <pin num="27" name="EN" type="passive"/>
+        <pin num="28" name="VBAT" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino3231" part="BATTERY">
+      <fields>
+        <field name="Reference">B</field>
+        <field name="Value">BATTERY</field>
+        <field name="Footprint">Adafruit DS3231 RTC Breakout:JSTPH2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="-" type="passive"/>
+        <pin num="2" name="+" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino3231" part="BATTERYCR1220_SMT">
+      <fields>
+        <field name="Reference">B1</field>
+        <field name="Value">BATTERYCR1220_SMT</field>
+        <field name="Footprint">Adafruit:BAT_CR-1220_FCN</field>
+      </fields>
+      <pins>
+        <pin num="+" name="+" type="passive"/>
+        <pin num="-" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCM_SL_Resistors" part="10k">
+      <description>10kΩ, 1/4W Resistor</description>
+      <footprints>
+        <fp>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">10k</field>
+        <field name="Footprint">Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Magnetic" part="DRV5033AJxLPG">
+      <description>±6.9 / ±3.5 mT, 20-kHz, 2-38V, TO-92</description>
+      <docs>https://www.ti.com/lit/ds/symlink/drv5033.pdf</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DRV5033AJxLPG</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/drv5033.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Timer_RTC" part="DS3231M">
+      <description>Extremely Accurate I2C-Integrated RTC/TCXO/Crystal SOIC-16</description>
+      <docs>http://datasheets.maximintegrated.com/en/ds/DS3231.pdf</docs>
+      <footprints>
+        <fp>SOIC*7.5x10.3mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DS3231M</field>
+        <field name="Footprint">Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm</field>
+        <field name="Datasheet">http://datasheets.maximintegrated.com/en/ds/DS3231.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="32KHZ" type="open_collector"/>
+        <pin num="2" name="VCC" type="power_in"/>
+        <pin num="3" name="~{INT}/SQW" type="open_collector"/>
+        <pin num="4" name="~{RST}" type="bidirectional"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="GND" type="passive"/>
+        <pin num="7" name="GND" type="passive"/>
+        <pin num="8" name="GND" type="passive"/>
+        <pin num="9" name="GND" type="passive"/>
+        <pin num="10" name="GND" type="passive"/>
+        <pin num="11" name="GND" type="passive"/>
+        <pin num="12" name="GND" type="passive"/>
+        <pin num="13" name="GND" type="power_in"/>
+        <pin num="14" name="VBAT" type="power_in"/>
+        <pin num="15" name="SDA" type="bidirectional"/>
+        <pin num="16" name="SCL" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Adafruit">
+      <uri>C:/Users/bkelly/OneDrive - Woods Hole Oceanographic Institution/Documents/KiCad/Symbol/AdafruitFeatherM4.lib</uri>
+    </library>
+    <library logical="Arduino3231">
+      <uri>C:/Users/bkelly/OneDrive - Woods Hole Oceanographic Institution/Documents/KiCad/Adafruit-DS3231-Precision-RTC-Breakout-PCB-master/Adafruit DS3231 RTC Breakout/Adafruit DS3231 RTC Breakout-eagle-import.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="PCM_SL_Resistors">
+      <uri>C:\Users\bkelly\OneDrive - Woods Hole Oceanographic Institution\Documents\KiCad\7.0\3rdparty/symbols/com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_Resistors.kicad_sym</uri>
+    </library>
+    <library logical="Sensor_Magnetic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Sensor_Magnetic.kicad_sym</uri>
+    </library>
+    <library logical="Timer_RTC">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Timer_RTC.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="2" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MS1" pin="10" pinfunction="A5" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MS1" pin="9" pinfunction="A4" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MS1" pin="8" pinfunction="A3" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="Net-(D3-K)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MS1" pin="7" pinfunction="A2" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="Net-(D4-K)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MS1" pin="6" pinfunction="A1" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="Net-(D5-K)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D6-A)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MS1" pin="2" pinfunction="3V" pintype="power_in"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="13" name="Net-(D6-K)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D9-A)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MS1" pin="25" pinfunction="13" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="Net-(D9-K)">
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D10-A)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MS1" pin="24" pinfunction="12" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="Net-(D10-K)">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D11-A)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MS1" pin="23" pinfunction="11" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="Net-(D11-K)">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D12-A)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MS1" pin="22" pinfunction="10" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="Net-(D12-K)">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D13-A)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MS1" pin="21" pinfunction="9" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="Net-(D13-K)">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D14-A)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MS1" pin="20" pinfunction="6" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="Net-(D14-K)">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D15-A)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MS1" pin="19" pinfunction="5" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="Net-(D15-K)">
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D16-A)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MS1" pin="16" pinfunction="D4" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D16-K)">
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(MS1-A0)">
+      <node ref="MS1" pin="5" pinfunction="A0" pintype="bidirectional"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="31" name="Net-(MS1-GND)">
+      <node ref="B1" pin="-" pinfunction="-" pintype="passive"/>
+      <node ref="MS1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="10" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(MS1-SCL)">
+      <node ref="MS1" pin="18" pinfunction="SCL" pintype="bidirectional"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(MS1-SDA)">
+      <node ref="MS1" pin="17" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="Net-(U3-VBAT)">
+      <node ref="B1" pin="+" pinfunction="+" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="VBAT" pintype="power_in"/>
+    </net>
+    <net code="35" name="unconnected-(B2-+-Pad2)">
+      <node ref="B2" pin="2" pinfunction="+" pintype="passive"/>
+    </net>
+    <net code="36" name="unconnected-(B2---Pad1)">
+      <node ref="B2" pin="1" pinfunction="-" pintype="passive"/>
+    </net>
+    <net code="37" name="unconnected-(MS1-AREF-Pad3)">
+      <node ref="MS1" pin="3" pinfunction="AREF" pintype="passive"/>
+    </net>
+    <net code="38" name="unconnected-(MS1-EN-Pad27)">
+      <node ref="MS1" pin="27" pinfunction="EN" pintype="passive"/>
+    </net>
+    <net code="39" name="unconnected-(MS1-MI-Pad13)">
+      <node ref="MS1" pin="13" pinfunction="MI" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="unconnected-(MS1-MO-Pad12)">
+      <node ref="MS1" pin="12" pinfunction="MO" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="unconnected-(MS1-RX-Pad14)">
+      <node ref="MS1" pin="14" pinfunction="RX" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="unconnected-(MS1-SCK-Pad11)">
+      <node ref="MS1" pin="11" pinfunction="SCK" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="unconnected-(MS1-TX-Pad15)">
+      <node ref="MS1" pin="15" pinfunction="TX" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="unconnected-(MS1-USB-Pad26)">
+      <node ref="MS1" pin="26" pinfunction="USB" pintype="power_in"/>
+    </net>
+    <net code="45" name="unconnected-(MS1-VBAT-Pad28)">
+      <node ref="MS1" pin="28" pinfunction="VBAT" pintype="power_in"/>
+    </net>
+    <net code="46" name="unconnected-(MS1-~{RST}-Pad1)">
+      <node ref="MS1" pin="1" pinfunction="~{RST}" pintype="input"/>
+    </net>
+    <net code="47" name="unconnected-(U3-32KHZ-Pad1)">
+      <node ref="U3" pin="1" pinfunction="32KHZ" pintype="open_collector"/>
+    </net>
+    <net code="48" name="unconnected-(U3-~{INT}{slash}SQW-Pad3)">
+      <node ref="U3" pin="3" pinfunction="~{INT}/SQW" pintype="open_collector"/>
+    </net>
+    <net code="49" name="unconnected-(U3-~{RST}-Pad4)">
+      <node ref="U3" pin="4" pinfunction="~{RST}" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>

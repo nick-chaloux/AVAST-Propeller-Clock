@@ -1,0 +1,9 @@
+2025-02-20 13:48:05,982 - panelizer_logger - WARNING - 
+START: 2025-02-20T13:48:01.212112
+
+Board: C:\Users\bkelly\OneDrive - Woods Hole Oceanographic Institution\Documents\Projects\AVAST\AVAST_Projects\PropellerClock\SOIC16_2_SO16\Production\SOIC16_2_SO16_panelized.kicad_pcb
+Board dimensions: 12.01 x 11.63 mm.
+You can fit 1 x 1 boards on the panel.
+Warning: panel is under 70x70mm. It may be too small to v-score.
+Ordering Instructions not found! No futher ordering warnings will be given.
+
