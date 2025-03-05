@@ -9,9 +9,9 @@ Meeting Day and Time: Wednesdays from 11 to 1\
 Location: David Center Social hub\
 
 **Schedule\\***
-* 3/5\t-- Project kickoff - overview of project and setup of free software
-* 3/19\t--
-* 3/26\t--
+* 3/5&nbsp;-- Project kickoff - overview of project and setup of free software
+* 3/19&nbsp;--
+* 3/26&nbsp;--
 
 ## Free Software!
 All software is available for Window, macOS and Linux.
