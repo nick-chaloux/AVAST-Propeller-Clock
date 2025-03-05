@@ -13,6 +13,16 @@ Location: David Center Social hub\
 * 3/19&nbsp;&nbsp;--
 * 3/26&nbsp;&nbsp;--
 
+\* Schedule subject to some change. In-class time is intended for questions as your build you propeller clock
+
+## How to Install this Repo
+1. Install (git)[https://git-scm.com/book/en/v2/Getting-Started-Installing-Git] on your local machine.
+2. Navigate to the directory (folder) you want this project to download to.
+3. Run:
+'''
+git clone https://github.com/nick-chaloux/AVAST-Propeller-Clock.git
+'''
+
 ## Free Software!
 All software is available for Window, macOS and Linux.
 
