@@ -8,7 +8,7 @@ Office Hours: 9 to 5, Monday through Friday\
 Meeting Day and Time: Wednesdays from 11 to 1\
 Location: David Center Social hub\
 
-**Schedule\\***
+**Schedule\***
 * 3/5&nbsp;&nbsp;&nbsp;&nbsp;-- Project kickoff - overview of project and setup of free software
 * 3/19&nbsp;&nbsp;--
 * 3/26&nbsp;&nbsp;--
