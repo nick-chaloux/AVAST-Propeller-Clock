@@ -16,7 +16,7 @@ Location: David Center Social hub
 \* Schedule subject to some change. In-class time is intended for questions as you build your propeller clock
 
 ## How to Install this Repo
-1. Install git:[https://git-scm.com/book/en/v2/Getting-Started-Installing-Git] on your local machine.
+1. Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your local machine.
 2. Navigate to the directory (folder) you want this project to download to.
 3. Run:
 ```
@@ -26,10 +26,10 @@ git clone https://github.com/nick-chaloux/AVAST-Propeller-Clock.git
 ## Free Software!
 All software is available for Window, macOS and Linux.
 
-Mechanical: Shapr3D [https://www.shapr3d.com/product/3d-modeling]
+Mechanical: [Shapr3D](https://www.shapr3d.com/product/3d-modeling)
 - Create a free account using your WHOI credentials
 
-Electrical: KiCAD [https://www.kicad.org/download/]
+Electrical: [KiCAD](https://www.kicad.org/download/)
 
 Software: (Arduino IDE)[https://www.arduino.cc/en/software]
 
