@@ -31,5 +31,5 @@ Mechanical: [Shapr3D](https://www.shapr3d.com/product/3d-modeling)
 
 Electrical: [KiCAD](https://www.kicad.org/download/)
 
-Software: (Arduino IDE)[https://www.arduino.cc/en/software]
+Software: [Arduino IDE](https://www.arduino.cc/en/software)
 
