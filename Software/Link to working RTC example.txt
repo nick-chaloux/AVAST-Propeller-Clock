@@ -1,2 +1,8 @@
 Here's a page that shows how to start using the DS3231 real-time clock (RTC) on the WHOI Propeller Clock:
 https://learn.adafruit.com/adafruit-ds3231-precision-rtc-breakout/arduino-usage
+
+In particular, see Download RTCLib:
+https://learn.adafruit.com/adafruit-ds3231-precision-rtc-breakout/arduino-usage#download-rtclib-2943494
+
+Also, see Load Demo:
+https://learn.adafruit.com/adafruit-ds3231-precision-rtc-breakout/arduino-usage#load-demo-2943499
